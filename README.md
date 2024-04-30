@@ -8,7 +8,7 @@
 
 ![luizsimi GitHub stats](https://github-readme-stats.vercel.app/api?username=luizsimi&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizsimi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizsimi)](https://github.com/anuraghazra/github-readme-stats) 
 
 ### Tecnologias que eu uso no meu dia
 
@@ -19,6 +19,6 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
+</div><br/>
 
-![Untitled ‑ Made with FlexClip](https://github.com/luizsimi/luizsimi/assets/141957782/c61680e6-3273-4b74-90f5-7c6c4d49eb56)
+![Untitled ‑ Made with FlexClip (1)](https://github.com/luizsimi/luizsimi/assets/141957782/f732df68-e94d-43dd-898f-82f19eeb8f14)
