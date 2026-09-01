@@ -48,7 +48,7 @@ Trabalho no **[Sisquali](https://www.sisquali.net)** — plataforma SaaS multi-t
 
 ## 🎓 Formação
 
-**Desenvolvimento de Software Multiplataforma** — Fatec (5º semestre, em andamento)
+**Desenvolvimento de Software Multiplataforma** — Fatec (6º semestre, em andamento)
 
 <!--
 ## 📊 Estatísticas
