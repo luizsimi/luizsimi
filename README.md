@@ -48,15 +48,24 @@ Trabalho no **[Sisquali](https://www.sisquali.net)** — plataforma SaaS multi-t
 
 ## 🎓 Formação
 
-**Desenvolvimento de Software Multiplataforma** — Fatec (6º semestre, em andamento)
+**Desenvolvimento de Software Multiplataforma** — Fatec (5º semestre, em andamento)
 
+<!--
 ## 📊 Estatísticas
+A instância pública do github-readme-stats vive fora do ar (HTTP 503), por isso esta seção está desativada.
+Para reativar com cards que funcionam sempre, faça seu próprio deploy gratuito (5 min):
+  1. Faça fork de https://github.com/anuraghazra/github-readme-stats
+  2. No SEU fork, edite o arquivo vercel.json e troque "maxDuration": 30 por 10 (limite do plano gratuito)
+  3. Em https://vercel.com/new importe o fork e faça o deploy
+  4. Crie um token em https://github.com/settings/tokens (classic, SEM nenhum escopo marcado)
+     e adicione no projeto da Vercel como variável de ambiente chamada PAT_1
+  5. Troque SEU-DEPLOY.vercel.app abaixo pelo domínio que a Vercel te deu e descomente o bloco:
 
-<!-- Se os cards abaixo aparecerem quebrados, é rate limit da instância pública do github-readme-stats (acontece de vez em quando e volta sozinho). Alternativa definitiva: fazer seu próprio deploy gratuito na Vercel — https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
 <p>
-  <img alt="Estatísticas do GitHub" height="165" src="https://github-readme-stats.vercel.app/api?username=luizsimi&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img alt="Linguagens mais usadas" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsimi&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&hide=html,css,scss" />
+  <img alt="Estatísticas do GitHub" height="165" src="https://SEU-DEPLOY.vercel.app/api?username=luizsimi&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img alt="Linguagens mais usadas" height="165" src="https://SEU-DEPLOY.vercel.app/api/top-langs/?username=luizsimi&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&hide=html,css,scss" />
 </p>
+-->
 
 <details>
   <summary>🌐 Outras redes</summary>
