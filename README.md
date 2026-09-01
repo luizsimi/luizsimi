@@ -18,7 +18,7 @@
 
 ## 🏗️ O que eu construo
 
-Trabalho no **[Sisquali](https://sisquali.com.br/)** — plataforma SaaS multi-tenant de controle tecnológico e gestão da qualidade, usada por 13 construtoras e concessionárias de rodovias e aeroportos:
+Trabalho na **[Sisquali](https://sisquali.com.br/)** — plataforma SaaS multi-tenant de controle tecnológico e gestão da qualidade, usada por 13 construtoras e concessionárias de rodovias e aeroportos:
 
 - ⚙️ **API Laravel 13 / PHP 8.3** — 23 módulos em Clean Architecture, 500+ endpoints REST e um banco de dados isolado por cliente
 - 🧪 **Motor de ensaios data-driven** — 51 tipos de ensaios de laboratório e campo (Marshall, CBR, granulometria…) definidos em JSON versionado e calculados por expression language: ensaio novo é dado, não código
